@@ -11,7 +11,7 @@ Follow these steps to install and run the Text Analyzer application locally:
 
    ```
 
-   git clone <https://github.com/FranBejarano/text-analyzer.git>
+   git clone <https://github.com/FranBejarano/text-analyzer-tool.git>
 
    ```
 
